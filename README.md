@@ -1,4 +1,4 @@
-[![Build status](https://sidda.visualstudio.com/Azure%20DevOps%20Demo/_apis/build/status/Parallel%20jobs-CI)](https://sidda.visualstudio.com/Azure%20DevOps%20Demo/_build/latest?definitionId=13)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
